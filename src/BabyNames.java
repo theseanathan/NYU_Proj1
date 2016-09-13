@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-public class main {
+public class BabyNames{
 
 }
 
@@ -37,4 +37,8 @@ class Name implements Comparable<Name>{
 		
 		return name;
 	}
+}
+
+class YearNames{
+	
 }
